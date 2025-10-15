@@ -1,5 +1,8 @@
 # 🎹 Simulador de Piano em JavaScript
 
+<img width="800" height="493" alt="image" src="https://github.com/user-attachments/assets/9b9f0d6f-a612-4ac4-a02e-5ef44d50900a" />
+
+
 Um projeto interativo desenvolvido com **HTML**, **CSS** e **JavaScript** que simula um **piano virtual** no navegador.  
 Cada tecla corresponde a um som real, permitindo tocar músicas diretamente no teclado do computador ou clicando nas teclas virtuais na tela.
 
